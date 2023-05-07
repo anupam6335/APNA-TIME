@@ -2,7 +2,8 @@
 
 To-do list website made with React JS, Tailwind CSS, Redux Toolkit and more.
 
-![home page](https://user-images.githubusercontent.com/65649115/236688922-c5edfde0-25b8-4f63-94cb-eea8da86aff0.png)
+![Home page](https://user-images.githubusercontent.com/65649115/236689367-a6db380d-fd35-4e4c-bf28-bf6b8fd49a56.png)
+
 
 ## Description
 
