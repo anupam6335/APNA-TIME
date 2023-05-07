@@ -6,7 +6,7 @@ const useDescriptionTitle = (description: string, title: string): void => {
     metaDescription.setAttribute("content", description);
 
     const titleElement = document.querySelector("title")!;
-    titleElement.innerText = "MERA TIME | " + title;
+    titleElement.innerText = "Apna Samay | " + title;
   }, [description, title]);
 };
 
