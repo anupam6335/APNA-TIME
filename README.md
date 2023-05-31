@@ -1,4 +1,4 @@
-# 📅 Apna Samay (To-Do List)
+# 📅 TickTock (To-Do List)
 
 To-do list website made with React JS, Tailwind CSS, Redux Toolkit and more.
 
